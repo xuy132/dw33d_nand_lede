@@ -10,4 +10,5 @@ src-git oldpackages http://git.openwrt.org/packages.git
 src-link custom /usr/src/openwrt/custom-feed
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git easymesh https://github.com/ntlf9t/luci-app-easymesh.git
 
