@@ -13,3 +13,5 @@
 # Modify default IP
 sed -i 's/192.168.1.1/10.0.0.2/g' ./package/base-files/files/bin/config_generate
 
+echo '修改wifi名称'
+sed -i 's/OpenWrt/PDCN/g' package/kernel/mac80211/files/lib/wifi/mac80211.sh
