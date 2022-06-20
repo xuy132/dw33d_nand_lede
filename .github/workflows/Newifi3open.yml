@@ -15,8 +15,8 @@ on:
   push:
     branches: 
       - master
-  schedule:
-    - cron: 0 20 * * *
+#   schedule:
+#     - cron: 0 20 * * *
 
 
 env:
