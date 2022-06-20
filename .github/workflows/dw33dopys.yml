@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: dw33dvss
+name: dw33d op y
 
 on:
   repository_dispatch:
